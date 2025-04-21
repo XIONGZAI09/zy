@@ -2,13 +2,12 @@
 # 机场订阅
 proxy-providers:
   Airport1:
-    url: "机场订阅"
+    url: "熊仔"
     type: http
     interval: 86400
     health-check:
       enable: true
-      url: https://www.gstatic.com/generate_204
-      interval: 300
+      url: https://suo.yt/5EFk8tk
     proxy: 直连
 
 # 节点信息
