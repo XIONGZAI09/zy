@@ -6,12 +6,14 @@ DOMAIN,aws-na-dr.intlgame.com
 DOMAIN,data-aws-na.intlgame.com
 DOMAIN,pc.crashsight-us.iegcom.com
 IP-CIDR,43.152.114.31/32,no-resolve
+DOMAIN,cloud.nikke-kr.com
+DOMAIN,global-lobby.nikke-kr.com
 
 DOMAIN-SUFFIX,nikke-kr.com
 DOMAIN-SUFFIX,intlgame.com
 DOMAIN-SUFFIX,iegcom.com
-DOMAIN,cloud.nikke-kr.com
-DOMAIN,global-lobby.nikke-kr.com
+DOMAIN-SUFFIX,cloud.nikke-kr.com
+DOMAIN-SUFFIX,global-lobby.nikke-kr.com
 
 #ACE
 DOMAIN,down.anticheatexpert.com
